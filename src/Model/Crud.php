@@ -1,6 +1,6 @@
 <?php
 
-namespace Qiblat\Crud\Model;
+namespace Qiblat\Helper\Model;
 
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Cache;
